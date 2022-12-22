@@ -8,11 +8,12 @@
 
 - HTML5 / CSS3
 - Javascript / Node.js
-- Express (Estudando)
+- Express (Study)
 - Git 
-- Firebase (No futuro)
-- Docker (No futuro)
-- AWS (No futuro)
+- Firebase (in the future)
+- Docker (in the future)
+- AWS (in the future)
+And more...
 
 For freelancer contracts or professional contacts:
 
