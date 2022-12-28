@@ -2,7 +2,7 @@
 
 💼 *This is my portfolio profile for future contracts and code sharing.* 💼
 
-✨ Currently a Junior Developer but I want to become a FULL ✨
+✨ Currently a Junior FullStack Developer. ✨
 
 ### These are my best skills:
 
