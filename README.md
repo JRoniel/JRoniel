@@ -2,17 +2,15 @@
 
 💼 *This is my portfolio profile for future contracts and code sharing.* 💼
 
-✨ Currently a Junior FullStack Developer. ✨
+✨ Currently a FullStack Developer. ✨
 
 ### These are my best skills:
 
 - HTML5 / CSS3
 - Javascript / Node.js
-- Express (Study)
+- Google SEO
 - Git 
-- Firebase (in the future)
-- Docker (in the future)
-- AWS (in the future)
+
 And more...
 
 For freelancer contracts or professional contacts:
