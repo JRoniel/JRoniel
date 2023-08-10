@@ -9,11 +9,11 @@
 
 ✨ Estudando para ser um dev full-stack ✨
 
-### Minhas habilidades consistem em:
-
+### Minhas habilidades:
 - Arquitetura MVC
 - Clean Code
 
+### Minhas stacks:
 - Front-End [ Html / Css / Bootstrap ]
 - Javascript / Node.js / Express / 
 - Google SEO / Optimization Web
