@@ -11,10 +11,13 @@
 
 ### Minhas habilidades consistem em:
 
+- Arquitetura MVC
+- Clean Code
+
 - Front-End [ Html / Css / Bootstrap ]
-- Javascript [ Node.js / Express ]
-- Google SEO / Page Speed
-- Wordpress 
+- Javascript / Node.js / Express / 
+- Google SEO / Optimization Web
+- Wordpress / Page Speed 
 - Git 
 
 <a href="https://instagram.com/john.roniel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
