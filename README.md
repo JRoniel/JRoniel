@@ -1,18 +1,27 @@
-### Hello World
+## console.log('Hello World');
 
-💼 *This is my portfolio profile for future contracts and code sharing.* 💼
+<div style="display: flex; justify-content: center; align-items: center;">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jroniel&hide=contribs,prs)
 
-✨ Currently a FullStack Developer. ✨
+</div>
+  
 
-### These are my best skills:
+✨ Estudando para ser um dev full-stack ✨
 
-- HTML5 / CSS3
-- Javascript / Node.js
-- Google SEO
+### Minhas habilidades consistem em:
+
+- Front-End [ Html / Css / Bootstrap ]
+- Javascript [ Node.js / Express ]
+- Google SEO / Page Speed
+- Wordpress 
 - Git 
 
-And more...
+<a href="https://instagram.com/john.roniel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/johnroniel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:johnroniel8264@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-For freelancer contracts or professional contacts:
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jroniel&layout=compact)
+ 
 
-email: johnleinor82648264@outlook.com
