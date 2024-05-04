@@ -14,10 +14,8 @@
 - Clean Code
 
 ### Minhas stacks:
-- Front-End [ Html / Css / Bootstrap ]
-- Javascript / Node.js / Express / 
-- Google SEO / Optimization Web
-- Wordpress / Page Speed 
+- Web Design [ Html / Css / Wordpress / Page Speed ]
+- Back-end (Node.js / Express/ MongoDB ) 
 - Git 
 
 <a href="https://instagram.com/john.roniel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
